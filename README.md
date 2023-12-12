@@ -31,6 +31,6 @@ The project structure includes models for defining data structures, routes for h
 - `/api/foods/:id/delete`: Delete a food entry.
 
 ## Credits
-- Authors: Samuel Moreira de Souza
+- Author: Samuel Moreira de Souza
 
 Feel free to explore the code, contribute to the project, or provide feedback. If you have any suggestions or improvements, don't hesitate to open an issue or submit a pull request!
