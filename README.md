@@ -1,9 +1,9 @@
-# Food API Project
+# Address API Project
 
-Welcome to the Food API Project repository! This project was developed as part of the "Programação para Internet" (Web Programming) course. It involves creating a RESTful API for managing food-related data using technologies such as Yarn, TypeScript, Mongoose, and Node.js modules.
+Welcome to the Address API Project repository! This project was developed as part of the "Programação para Internet" (Web Programming) course. It involves creating a RESTful API for managing address-related data using technologies such as Yarn, TypeScript, Mongoose, and Node.js modules.
 
 ## Features
-- RESTful API for managing food-related data.
+- RESTful API for managing address-related data.
 - Developed using Yarn as a package manager, TypeScript for type-safe development, and Mongoose for MongoDB integration.
 - Implementation includes models, routes, and various Node.js modules for a modular and organized codebase.
 
@@ -24,11 +24,11 @@ The project structure includes models for defining data structures, routes for h
 5. Run `yarn start` to start the Node.js server.
 
 ## API Endpoints
-- `/api/foods`: Retrieve all foods.
-- `/api/foods/:id`: Retrieve a specific food by ID.
-- `/api/foods/create`: Create a new food entry.
-- `/api/foods/:id/update`: Update an existing food entry.
-- `/api/foods/:id/delete`: Delete a food entry.
+- `/api/foods`: Retrieve all address.
+- `/api/foods/:id`: Retrieve a specific address by ID.
+- `/api/foods/create`: Create a new address entry.
+- `/api/foods/:id/update`: Update an existing address entry.
+- `/api/foods/:id/delete`: Delete a address entry.
 
 ## Credits
 - Author: Samuel Moreira de Souza
